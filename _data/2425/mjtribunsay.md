@@ -1,4 +1,4 @@
-emoji :t_rex: rawr, rawr, rawr!!
+emoji :t_rex: :sauropod: rawr, rawr, rawr!!
 ***
 about_me
 >  Hi I'm Mark but you can call me Markeh/Marky.
