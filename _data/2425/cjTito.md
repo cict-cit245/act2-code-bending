@@ -1,4 +1,4 @@
-emoji  :brown_heart::brown_heart::brown_heart: Brown Hearts :brown_heart::brown_heart::brown_heart:
+emoji  🤎🤎🤎 Brown Hearts 🤎🤎🤎
 ***
 about_me
 >  Hi I'm Carl, I like to walk to relax my mind.
