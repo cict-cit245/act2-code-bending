@@ -1,7 +1,7 @@
-emoji :v: y'all!
+emoji 🥴
 ***
 about_me
->  Hi I'm Mark, I like to code and do 3D graphics.
+>  Hi I'm Kyla, I like watching reels.
 
 hugot_lines/other_stuffs
-> "Never accept the world as it appears to be. Dare to see it for what it could be - Harold Winston (Overwatch)".
+> "Live with no regrets".
